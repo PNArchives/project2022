@@ -1,3 +1,6 @@
+### Test Case ID
+Pro-7114
+
 ### Test Case Name
 プロジェクトの削除（削除対象のプロジェクトをTesTool上で選択している場合）
 
